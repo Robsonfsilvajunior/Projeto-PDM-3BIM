@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650341893406",
+    "project_id": "robsonprojeto",
+    "storage_bucket": "robsonprojeto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650341893406:android:568983de7b219e1ebdb50f",
+        "android_client_info": {
+          "package_name": "com.example.robsonprojeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3lO79PXxjz27Uf0znaU1fuf5DsTpf1fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
